@@ -42,3 +42,4 @@ try:
 
 except ValueError:
     print("Вы ввели не числа!")
+    
